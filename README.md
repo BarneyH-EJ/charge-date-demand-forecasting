@@ -1,3 +1,3 @@
-> Airline charge date demand forecasting
+> Airline booking curve forecasting
 
-> Using patterns seen in charge date demand flows to enable enhanced sales forecasting
+> Using patterns seen in charge date demand flows to enable enhanced booking curve forecasting
